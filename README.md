@@ -6,6 +6,8 @@
 
 💬 Estou mais do que aberto para bater um papo e dividir algumas experiências sobre esse mundão da programação.
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Codes%20are%20a%20puzzle.%20A%20game,%20just%20like%20any%20other%20game.&author=Alan%20Turing.)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ---
 
 ## 🚀 Minhas Skills
@@ -23,4 +25,6 @@
 
 ## ⭐ Informações sobre minha conta GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonardonoll&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonardonoll&show_icons=true&theme=dracula)
+
+
